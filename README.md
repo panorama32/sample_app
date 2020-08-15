@@ -41,4 +41,4 @@ $ rails server
 詳しくは、[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 を参考にしてください。
 
-Last edit: 2020-8-20 00:44
+Last edit: 2020-8-20 00:48
