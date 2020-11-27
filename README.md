@@ -1,3 +1,1 @@
-# Location
-
-https://pnrm-railstutorial.herokuapp.com/
+# Sample_app
